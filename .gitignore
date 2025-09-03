@@ -1,0 +1,13 @@
+ECHO is on.
+# PyCharm files
+.idea/
+
+
+# Python cache files
+__pycache__/
+
+
+# Virtual environments
+venv/
+
+
